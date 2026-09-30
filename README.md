@@ -51,3 +51,6 @@ CampusTwin/
 cd CampusTwin
 npm install
 npm run dev
+## Backend SetUp
+cd CampusTwin_backend
+node server.js
