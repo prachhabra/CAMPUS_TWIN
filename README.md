@@ -45,7 +45,7 @@ CampusTwin/
 ├── CampusTwin/
 └── CampusTwin_backend/
 
-## Frontend Setup
+## Frontend And Backend Setup
 
 ```bash
 cd CampusTwin
