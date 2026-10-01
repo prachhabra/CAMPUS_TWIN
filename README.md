@@ -45,12 +45,12 @@ CampusTwin/
 ├── CampusTwin/
 └── CampusTwin_backend/
 
-## Frontend And Backend Setup
+## Frontend Setup
 
 ```bash
 cd CampusTwin
 npm install
 npm run dev
-## Backend SetUp
+## Backend Setup
 cd CampusTwin_backend
 node server.js
